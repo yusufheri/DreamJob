@@ -4,7 +4,8 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "JobApp",
-    "slug": "JobApp"
+    "name": "DreamJob",
+    "slug": "JobApp",
+    "description": "Find your dream job in world! You can work 100% remote"
   }
 }
