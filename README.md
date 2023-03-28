@@ -1,12 +1,8 @@
-# Expo Router Example
+# Dream Job
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Find your dream job in world thanks DreamJob Apps, 100% remote.
 
-## 🚀 How to use
 
-```sh
-npx create-react-native-app -t with-router
-```
 
 ## 📝 Notes
 
